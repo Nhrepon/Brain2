@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7bbcdee3aefd37b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/git initial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Php/Explode.md",
+                "file": "git/git initial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Php/Explode.md",
+                "file": "git/git initial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Php/Explode.md"
+                "file": "git/git initial.md"
               }
             }
           }
@@ -148,8 +161,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "c0221650e5f98732",
+  "active": "7bbcdee3aefd37b6",
   "lastOpenFiles": [
+    "README.md",
+    "Php/Explode.md",
+    "git/git initial.md",
+    "git",
     "React/Read and delete data.md",
     "React/Counter and user form.md",
     "JavaScript/JavaScript.md",
@@ -160,7 +177,6 @@
     "Android Apps/Untitled.md",
     "Laravel",
     "Android Apps",
-    "Php/Explode.md",
     "MERN",
     "Php",
     "JavaScript",
