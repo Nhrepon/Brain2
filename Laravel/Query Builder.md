@@ -172,10 +172,12 @@ DB::table('books')->whereId(10)->update([
 DB::table('books')->where('price', '>', 14)->delete();
 ```
 
-### 
+### Group by for unique data
 ```php
-
-
+$result = DB::table('products')
+->groupBy('price')
+->having('price', '>', 2000)
+->get();
 ```
 
 ### 
