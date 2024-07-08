@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/git initial.md",
+                "file": "Php/Explode.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/git initial.md",
+                "file": "Php/Explode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/git initial.md",
+                "file": "Php/Explode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/git initial.md"
+                "file": "Php/Explode.md"
               }
             }
           }
@@ -163,9 +163,11 @@
   },
   "active": "7bbcdee3aefd37b6",
   "lastOpenFiles": [
+    "Pasted image 20240626214858.png",
+    "Pasted image 20240626214825.png",
     "README.md",
-    "Php/Explode.md",
     "git/git initial.md",
+    "Php/Explode.md",
     "git",
     "React/Read and delete data.md",
     "React/Counter and user form.md",
