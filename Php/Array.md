@@ -1,5 +1,10 @@
 
 module 8.16
+## Array count
+```php
+$numbers = array(1,2,3,4,5,6,7,8,9);
+echo count($numbers);
+```
 ## Array walk
 ```php
 $numbers = array(1,2,3,4,5,6,7,8,9);
@@ -74,14 +79,25 @@ foreach(range(11, 20, 2 as $numbers)){
 }
 ```
 
-## A
+## Generate random numbers
 ```php
-$n
+$numbers = range(40, 72);
+echo mt_rand(0, 32);
+
+echo $numbers[$random].""\n';
+
+shuffle($numbers); // shuffle also converts associative array into index array.
+print_r ($numbers);
+
+
 ```
 
-## A
+## Random in associative array
 ```php
-$n
+$fruits = array('a'=>'array', 'b'=>'banana', 'c'=>'apple', 'd'=>'jackfruits', 'e'=>'orange', );
+//echo array_rand($fruits);
+$key =  array_rand($fruits);
+echo $fruits[$key];
 ```
 
 ## A

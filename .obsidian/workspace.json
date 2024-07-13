@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Php/Array.md",
+                "file": "Php/String.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Php/Array.md",
+                "file": "Php/String.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Php/Array.md",
+                "file": "Php/String.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Php/Array.md"
+                "file": "Php/String.md"
               }
             }
           }
@@ -150,8 +150,9 @@
   },
   "active": "7bbcdee3aefd37b6",
   "lastOpenFiles": [
-    "Php/Explode.md",
     "Php/Array.md",
+    "Php/String.md",
+    "Php/Explode.md",
     "Laravel/Query Builder.md",
     "React/Read and delete data.md",
     "React/Counter and user form.md",
