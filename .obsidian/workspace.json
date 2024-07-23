@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laravel/Model.md",
+                "file": "Android Apps/Gradle.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laravel/Model.md",
+                "file": "Android Apps/Gradle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laravel/Model.md",
+                "file": "Android Apps/Gradle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laravel/Model.md"
+                "file": "Android Apps/Gradle.md"
               }
             }
           }
@@ -150,8 +150,13 @@
   },
   "active": "7bbcdee3aefd37b6",
   "lastOpenFiles": [
-    "Laravel/X-layout.md",
+    "Android Apps/Home.md",
+    "Android Apps/Gradle.md",
+    "Android Apps/Menu.md",
+    "Android Apps/View.md",
+    "React/TopNavigation.md",
     "Laravel/Model.md",
+    "Laravel/X-layout.md",
     "Tools/Execution policy for npm.md",
     "Php/String.md",
     "Php/Array.md",
@@ -159,7 +164,6 @@
     "Laravel/Query Builder.md",
     "React/Read and delete data.md",
     "React/Counter and user form.md",
-    "Android Apps/Untitled.md",
     "git/Git.md",
     "JavaScript/JavaScript.md",
     "README.md",
