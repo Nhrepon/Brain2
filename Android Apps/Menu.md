@@ -1,4 +1,4 @@
-## Menu > navigation_menu.xml
+# Menu > navigation_menu.xml
 ```xml
 <?xml version="1.0" encoding="utf-8"?>  
 <menu xmlns:android="http://schemas.android.com/apk/res/android">  
@@ -29,7 +29,7 @@
 
 
 
-## Menu > toolbar.xml
+# Menu > toolbar.xml
 ```xml
 <?xml version="1.0" encoding="utf-8"?>  
 <menu xmlns:android="http://schemas.android.com/apk/res/android"  
@@ -56,7 +56,7 @@
 ```
 
 
-## Menu > bottom_menu.xml
+# Menu > bottom_menu.xml
 ```xml
 <?xml version="1.0" encoding="utf-8"?>  
 <menu xmlns:android="http://schemas.android.com/apk/res/android">  
@@ -79,3 +79,30 @@
 ```
 
 
+# Layout > navigation_header.xml
+```xml
+<?xml version="1.0" encoding="utf-8"?>  
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"  
+    android:layout_width="match_parent"  
+    android:layout_height="match_parent"  
+    android:orientation="vertical"  
+    android:background="@color/white"  
+    >  
+  
+    <ImageView  
+        android:layout_width="wrap_content"  
+        android:layout_height="200dp"  
+        android:src="@drawable/neural"  
+        />  
+    <TextView        android:layout_width="wrap_content"  
+        android:layout_height="wrap_content"  
+        android:text="@string/app_name"  
+        android:textSize="28sp"  
+        android:layout_gravity="center"  
+        android:textColor="@color/primary"  
+        android:layout_marginBottom="30dp"  
+        />  
+  
+  
+</LinearLayout>
+```

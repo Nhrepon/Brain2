@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android Apps/Gradle.md",
+                "file": "Android Apps/Database helper.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android Apps/Gradle.md",
+                "file": "Android Apps/Database helper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android Apps/Gradle.md",
+                "file": "Android Apps/Database helper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android Apps/Gradle.md"
+                "file": "Android Apps/Database helper.md"
               }
             }
           }
@@ -150,10 +150,13 @@
   },
   "active": "7bbcdee3aefd37b6",
   "lastOpenFiles": [
-    "Android Apps/Home.md",
-    "Android Apps/Gradle.md",
+    "Android Apps/Icon.md",
+    "Android Apps/Database helper.md",
     "Android Apps/Menu.md",
+    "Android Apps/XML page and Java code.md",
     "Android Apps/View.md",
+    "Android Apps/Activity.md",
+    "Android Apps/Gradle.md",
     "React/TopNavigation.md",
     "Laravel/Model.md",
     "Laravel/X-layout.md",
