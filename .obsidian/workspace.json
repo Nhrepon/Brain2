@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a5e6966c4820c3b4",
+        "id": "006dc05873995732",
         "type": "tabs",
         "children": [
           {
-            "id": "7bbcdee3aefd37b6",
+            "id": "94d92fe7b740b898",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MERN/Package.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MERN/Package.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MERN/Package.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MERN/Package.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,43 +140,46 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "7bbcdee3aefd37b6",
+  "active": "94d92fe7b740b898",
   "lastOpenFiles": [
-    "git/Git.md",
-    "Android Apps/Database helper.md",
-    "Android Apps/Icon.md",
-    "Android Apps/Menu.md",
-    "Android Apps/XML page and Java code.md",
-    "Android Apps/View.md",
-    "Android Apps/Activity.md",
-    "Android Apps/Gradle.md",
-    "React/TopNavigation.md",
-    "Laravel/Model.md",
-    "Laravel/X-layout.md",
-    "Tools/Execution policy for npm.md",
-    "Php/String.md",
-    "Php/Array.md",
-    "Php/Explode.md",
-    "Laravel/Query Builder.md",
-    "React/Read and delete data.md",
-    "React/Counter and user form.md",
-    "JavaScript/JavaScript.md",
+    "NEXT Js/Client side and server side rendering.md",
+    "NEXT Js",
     "README.md",
+    "Tools/Execution policy for npm.md",
     "Tools/Aomei license.md",
     "Tools",
+    "React/TopNavigation.md",
+    "React/Read and delete data.md",
+    "React/Counter and user form.md",
+    "React",
+    "Php/String.md",
+    "Php/Explode.md",
+    "Php/Array.md",
+    "Php",
+    "MERN/Package.md",
+    "MERN",
+    "Laravel/X-layout.md",
+    "Laravel/Query Builder.md",
+    "Laravel/Model.md",
+    "Laravel",
+    "JavaScript/JavaScript.md",
+    "JavaScript",
+    "git/Git.md",
+    "git",
+    "Android Apps/XML page and Java code.md",
+    "Android Apps/View.md",
+    "Android Apps/Menu.md",
+    "Android Apps/Icon.md",
+    "Android Apps/Gradle.md",
+    "Android Apps/Database helper.md",
+    "Android Apps/Activity.md",
+    "Android Apps",
+    "Brain2/git/Git.md",
+    "Brain2/git",
+    "Brain2/Tools/Execution policy for npm.md",
+    "Brain2/Tools/Aomei license.md",
     "Pasted image 20240626214858.png",
     "Pasted image 20240626214825.png",
-    "git",
-    "React",
-    "Markdown.md",
-    "MERN/Package.md",
-    "Laravel",
-    "Android Apps",
-    "MERN",
-    "Php",
-    "JavaScript",
-    "2024-03-21.md",
-    "Untitled.canvas",
-    "Welcome.md"
+    "Untitled.canvas"
   ]
 }
