@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android Apps/Database helper.md",
+                "file": "git/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android Apps/Database helper.md",
+                "file": "git/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android Apps/Database helper.md",
+                "file": "git/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android Apps/Database helper.md"
+                "file": "git/Git.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "7bbcdee3aefd37b6",
   "lastOpenFiles": [
-    "Android Apps/Icon.md",
     "Android Apps/Database helper.md",
+    "Android Apps/Icon.md",
     "Android Apps/Menu.md",
     "Android Apps/XML page and Java code.md",
     "Android Apps/View.md",
