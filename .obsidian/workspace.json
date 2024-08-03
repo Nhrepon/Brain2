@@ -11,8 +11,12 @@
             "id": "94d92fe7b740b898",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Android Apps/Database helper.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Android Apps/Database helper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Android Apps/Database helper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Android Apps/Database helper.md"
+              }
             }
           }
         ]
@@ -142,6 +150,8 @@
   },
   "active": "94d92fe7b740b898",
   "lastOpenFiles": [
+    "Android Apps/Activity.md",
+    "MERN/Package.md",
     "NEXT Js/Client side and server side rendering.md",
     "NEXT Js",
     "README.md",
@@ -156,7 +166,6 @@
     "Php/Explode.md",
     "Php/Array.md",
     "Php",
-    "MERN/Package.md",
     "MERN",
     "Laravel/X-layout.md",
     "Laravel/Query Builder.md",
@@ -172,7 +181,6 @@
     "Android Apps/Icon.md",
     "Android Apps/Gradle.md",
     "Android Apps/Database helper.md",
-    "Android Apps/Activity.md",
     "Android Apps",
     "Brain2/git/Git.md",
     "Brain2/git",
