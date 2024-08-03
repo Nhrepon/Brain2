@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "4840267b848ad373",
+    "id": "eb5adeff3a0ba8e0",
     "type": "split",
     "children": [
       {
-        "id": "006dc05873995732",
+        "id": "2c171ef935e129bc",
         "type": "tabs",
         "children": [
           {
-            "id": "94d92fe7b740b898",
+            "id": "fac19e8863dc7747",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android Apps/Database helper.md",
+                "file": "MERN/Package.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "540da76f66979571",
+    "id": "f5dd18a1b738d9ad",
     "type": "split",
     "children": [
       {
-        "id": "e589ccc6c0d63062",
+        "id": "37ea43b79ff78b16",
         "type": "tabs",
         "children": [
           {
-            "id": "419d5918b6d48794",
+            "id": "f5d98ca2ac6d8986",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "bc6d1fc01b262955",
+            "id": "d3c0d5497b04c0ce",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "c58e3968cb97a5b8",
+            "id": "fd213571109a78c7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "7ce58e7ac2afc16c",
+    "id": "47387b803296962b",
     "type": "split",
     "children": [
       {
-        "id": "641cbe5af07d2b09",
+        "id": "2a31a97f3b8834ef",
         "type": "tabs",
         "children": [
           {
-            "id": "ecf30428cd1fccaa",
+            "id": "df000c4be1512413",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android Apps/Database helper.md",
+                "file": "MERN/Package.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "571ec1ffbff6f36c",
+            "id": "85238ee2182badee",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android Apps/Database helper.md",
+                "file": "MERN/Package.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6f0a65469b2209e0",
+            "id": "7126512f40ca0edd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "1f1d9a1f05391559",
+            "id": "a10454f3a39e29fe",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android Apps/Database helper.md"
+                "file": "MERN/Package.md"
               }
             }
           }
@@ -148,46 +148,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "94d92fe7b740b898",
+  "active": "fac19e8863dc7747",
   "lastOpenFiles": [
-    "Android Apps/Activity.md",
-    "MERN/Package.md",
-    "NEXT Js/Client side and server side rendering.md",
-    "NEXT Js",
-    "README.md",
-    "Tools/Execution policy for npm.md",
-    "Tools/Aomei license.md",
-    "Tools",
-    "React/TopNavigation.md",
-    "React/Read and delete data.md",
-    "React/Counter and user form.md",
-    "React",
-    "Php/String.md",
-    "Php/Explode.md",
-    "Php/Array.md",
-    "Php",
-    "MERN",
-    "Laravel/X-layout.md",
-    "Laravel/Query Builder.md",
-    "Laravel/Model.md",
-    "Laravel",
     "JavaScript/JavaScript.md",
-    "JavaScript",
-    "git/Git.md",
-    "git",
-    "Android Apps/XML page and Java code.md",
-    "Android Apps/View.md",
-    "Android Apps/Menu.md",
-    "Android Apps/Icon.md",
-    "Android Apps/Gradle.md",
-    "Android Apps/Database helper.md",
-    "Android Apps",
-    "Brain2/git/Git.md",
-    "Brain2/git",
-    "Brain2/Tools/Execution policy for npm.md",
-    "Brain2/Tools/Aomei license.md",
-    "Pasted image 20240626214858.png",
-    "Pasted image 20240626214825.png",
-    "Untitled.canvas"
+    "git/Git.md"
   ]
 }
