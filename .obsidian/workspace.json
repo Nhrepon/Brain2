@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 242.5
   },
   "right": {
     "id": "47387b803296962b",
@@ -150,10 +150,17 @@
   },
   "active": "fac19e8863dc7747",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Laravel/Model.md",
     "Laravel/Command.md",
     "Laravel/X-layout.md",
     "Laravel/Query Builder.md",
+=======
+    "Android Apps/Gradle.md",
+    "Laravel/Command.md",
+    "Android Apps/Shrink resources.md",
+    "git/Git.md",
+>>>>>>> 35ef65bd637fc4a139ee5c015a202de1cdfe47b2
     "MERN/Package.md",
     "git/Git.md",
     "Android Apps/Gradle.md",
