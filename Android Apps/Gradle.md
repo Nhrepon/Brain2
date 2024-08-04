@@ -4,6 +4,10 @@
 ```Android
 android.useAndroidX=true
 android.enableJetifier=true
+
+// R8 code shrinker
+android.enableR8=true
+
 ```
 
 
@@ -27,4 +31,30 @@ dependencyResolutionManagement {
 rootProject.name = "PDF Reader & Viewer"
 include ':app'
 
+```
+
+# Shrink resources
+Build.gradle
+```java
+android {    
+buildTypes {
+release { 
+
+minifyEnabled true
+shrinkResources true 
+
+}} 
+}
+```
+
+```kotlin
+android {    
+buildTypes {        
+getByName("release") {    
+
+isMinifyEnabled = true 
+isShrinkResources = true  
+
+		}}
+}
 ```

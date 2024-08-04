@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MERN/Package.md",
+                "file": "Android Apps/Gradle.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MERN/Package.md",
+                "file": "Android Apps/Gradle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MERN/Package.md",
+                "file": "Android Apps/Gradle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MERN/Package.md"
+                "file": "Android Apps/Gradle.md"
               }
             }
           }
@@ -150,7 +150,10 @@
   },
   "active": "fac19e8863dc7747",
   "lastOpenFiles": [
-    "JavaScript/JavaScript.md",
-    "git/Git.md"
+    "Android Apps/Shrink resources.md",
+    "Android Apps/Gradle.md",
+    "git/Git.md",
+    "MERN/Package.md",
+    "JavaScript/JavaScript.md"
   ]
 }
