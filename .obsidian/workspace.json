@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android Apps/Gradle.md",
+                "file": "Laravel/Command.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 242.5
   },
   "right": {
     "id": "47387b803296962b",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android Apps/Gradle.md",
+                "file": "Laravel/Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android Apps/Gradle.md",
+                "file": "Laravel/Command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android Apps/Gradle.md"
+                "file": "Laravel/Command.md"
               }
             }
           }
@@ -150,8 +150,9 @@
   },
   "active": "fac19e8863dc7747",
   "lastOpenFiles": [
-    "Android Apps/Shrink resources.md",
     "Android Apps/Gradle.md",
+    "Laravel/Command.md",
+    "Android Apps/Shrink resources.md",
     "git/Git.md",
     "MERN/Package.md",
     "JavaScript/JavaScript.md"
