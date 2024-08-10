@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "eb5adeff3a0ba8e0",
+    "id": "21ba44ff2c5323c0",
     "type": "split",
     "children": [
       {
-        "id": "2c171ef935e129bc",
+        "id": "5bb3ced364043031",
         "type": "tabs",
         "children": [
           {
-            "id": "fac19e8863dc7747",
+            "id": "5f28e32d6d057ad3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laravel/Command.md",
+                "file": "MERN/Mongoose.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f5dd18a1b738d9ad",
+    "id": "e04648ee85f997ce",
     "type": "split",
     "children": [
       {
-        "id": "37ea43b79ff78b16",
+        "id": "2f811976e6abead9",
         "type": "tabs",
         "children": [
           {
-            "id": "f5d98ca2ac6d8986",
+            "id": "c788d1e08b117cd2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "d3c0d5497b04c0ce",
+            "id": "b557d3c688367898",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "fd213571109a78c7",
+            "id": "9e283742e61c0c82",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 300
   },
   "right": {
-    "id": "47387b803296962b",
+    "id": "02bcb5765e4634b3",
     "type": "split",
     "children": [
       {
-        "id": "2a31a97f3b8834ef",
+        "id": "0bf76f1cd0d39b50",
         "type": "tabs",
         "children": [
           {
-            "id": "df000c4be1512413",
+            "id": "39581d6b4883ac7e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laravel/Command.md",
+                "file": "MERN/Mongoose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "85238ee2182badee",
+            "id": "fe9910c959b39d75",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laravel/Command.md",
+                "file": "MERN/Mongoose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7126512f40ca0edd",
+            "id": "e8bacbac02f100aa",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "a10454f3a39e29fe",
+            "id": "fee12d969c47b4ba",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laravel/Command.md"
+                "file": "MERN/Mongoose.md"
               }
             }
           }
@@ -148,22 +148,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "fac19e8863dc7747",
+  "active": "5f28e32d6d057ad3",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Laravel/Model.md",
-    "Laravel/Command.md",
-    "Laravel/X-layout.md",
-    "Laravel/Query Builder.md",
-=======
-    "Android Apps/Gradle.md",
-    "Laravel/Command.md",
-    "Android Apps/Shrink resources.md",
     "git/Git.md",
->>>>>>> 35ef65bd637fc4a139ee5c015a202de1cdfe47b2
-    "MERN/Package.md",
-    "git/Git.md",
-    "Android Apps/Gradle.md",
-    "JavaScript/JavaScript.md"
+    "MERN/Mongoose.md"
   ]
 }
