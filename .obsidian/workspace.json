@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/JavaScript.md",
+                "file": "Laravel/Command.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 230.5
   },
   "right": {
     "id": "47387b803296962b",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/JavaScript.md",
+                "file": "Laravel/Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/JavaScript.md",
+                "file": "Laravel/Command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/JavaScript.md"
+                "file": "Laravel/Command.md"
               }
             }
           }
@@ -150,13 +150,16 @@
   },
   "active": "fac19e8863dc7747",
   "lastOpenFiles": [
+    "Laravel/Model.md",
+    "Laravel/Command.md",
+    "Laravel/Query Builder.md",
+    "MERN/Mongoose.md",
+    "JavaScript/JavaScript.md",
     "MERN/Package.md",
     "NEXT Js/Client side and server side rendering.md",
-    "Laravel/Command.md",
     "Tools/Google sheet to json.md",
     "Android Apps/Gradle.md",
     "Android Apps/Shrink resources.md",
-    "git/Git.md",
-    "JavaScript/JavaScript.md"
+    "git/Git.md"
   ]
 }
