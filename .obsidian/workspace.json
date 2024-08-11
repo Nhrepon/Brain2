@@ -151,6 +151,7 @@
   "active": "fac19e8863dc7747",
   "lastOpenFiles": [
     "Laravel/Model.md",
+    "git/Git.md",
     "Laravel/Command.md",
     "Laravel/Query Builder.md",
     "MERN/Mongoose.md",
@@ -159,7 +160,6 @@
     "NEXT Js/Client side and server side rendering.md",
     "Tools/Google sheet to json.md",
     "Android Apps/Gradle.md",
-    "Android Apps/Shrink resources.md",
-    "git/Git.md"
+    "Android Apps/Shrink resources.md"
   ]
 }
