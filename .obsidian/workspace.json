@@ -11,11 +11,9 @@
             "id": "fac19e8863dc7747",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Laravel/Bootstrap CSS.md",
-                "mode": "source",
-                "source": false
+                "file": "Icons/tasks.svg"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laravel/Bootstrap CSS.md",
+                "file": "Icons/tasks.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laravel/Bootstrap CSS.md",
+                "file": "Icons/tasks.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laravel/Bootstrap CSS.md"
+                "file": "Icons/tasks.svg"
               }
             }
           }
@@ -150,23 +148,25 @@
   },
   "active": "fac19e8863dc7747",
   "lastOpenFiles": [
-    "Laravel/Tailwind CSS.md",
-    "Laravel/Bootstrap CSS.md",
+    "Icons/smart-watch-svgrepo-com.svg",
+    "Icons/camera-svgrepo-com.svg",
+    "Icons/headphone-free-svgrepo-com.svg",
+    "Icons/mobile-alt-2-svgrepo-com.svg",
+    "Icons/laptop-alt-1-svgrepo-com.svg",
+    "Icons/select-category-svgrepo-com.svg",
+    "Icons/support-svgrepo-com.svg",
+    "Icons/payment-method-svgrepo-com.svg",
+    "Icons/delivery-car-svgrepo-com.svg",
+    "Icons/shopping-cart-01-svgrepo-com.svg",
+    "Icons/share-android-svgrepo-com.svg",
     "Laravel/Command.md",
+    "Php/Array.md",
+    "Laravel/Model.md",
+    "Laravel/Bootstrap CSS.md",
+    "Laravel/Tailwind CSS.md",
     "Laravel/Query Builder.md",
     "Laravel/X-layout.md",
-    "Laravel/Model.md",
     "git/Git.md",
-    "Icons/share-android-svgrepo-com.svg",
-    "Icons/settings-svgrepo-com.svg",
-    "Icons/shopping-cart-01-svgrepo-com.svg",
-    "Icons/youtube.svg",
-    "Icons/window-close.svg",
-    "Icons/wifi.svg",
-    "Icons/whatsapp.svg",
-    "Icons/volume-max-svgrepo-com.svg",
-    "Icons/vertical-ellipsis.svg",
-    "Icons/trash-full-svgrepo-com.svg",
     "MERN/Mongoose.md",
     "JavaScript/JavaScript.md",
     "MERN/Package.md",
