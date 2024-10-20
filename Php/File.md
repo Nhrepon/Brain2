@@ -29,6 +29,7 @@ $_SESSION['name']='Repon';
 echo $_session("name");
 
 
+setcookie("name", "value", time()+300 , "path");
 
 
 
