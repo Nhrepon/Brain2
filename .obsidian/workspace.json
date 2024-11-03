@@ -13,10 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Tools/Aomei license.md",
                 "mode": "source",
                 "source": false
               }
+=======
+                "file": "Php/Date.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Date"
+>>>>>>> e5873e1b0ec03765e2d319cb62f90515c6be4b2e
             }
           }
         ]
@@ -39,7 +48,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +65,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +75,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +100,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Tools/Aomei license.md",
+=======
+                "file": "Php/Date.md",
+>>>>>>> e5873e1b0ec03765e2d319cb62f90515c6be4b2e
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +112,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Date"
             }
           },
           {
@@ -102,10 +123,16 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Tools/Aomei license.md",
+=======
+                "file": "Php/Date.md",
+>>>>>>> e5873e1b0ec03765e2d319cb62f90515c6be4b2e
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Date"
             }
           },
           {
@@ -116,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +154,15 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Tools/Aomei license.md"
               }
+=======
+                "file": "Php/Date.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Date"
+>>>>>>> e5873e1b0ec03765e2d319cb62f90515c6be4b2e
             }
           }
         ]
@@ -150,6 +186,7 @@
   },
   "active": "fac19e8863dc7747",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Icons/whatsapp.svg",
     "Icons/telegram.svg",
     "Icons/notifications-outline.svg",
@@ -164,10 +201,31 @@
     "Icons/wifi.svg",
     "Icons/volume-max-svgrepo-com.svg",
     "git/Git.md",
+=======
+    "Php/File.md",
+    "Php/Date.md",
+    "MERN/Package.md",
+    "Icons/tasks.svg",
+    "Icons/smart-watch-svgrepo-com.svg",
+    "Icons/camera-svgrepo-com.svg",
+    "Icons/headphone-free-svgrepo-com.svg",
+    "Icons/mobile-alt-2-svgrepo-com.svg",
+    "Icons/laptop-alt-1-svgrepo-com.svg",
+    "Icons/select-category-svgrepo-com.svg",
+    "Icons/support-svgrepo-com.svg",
+    "Icons/payment-method-svgrepo-com.svg",
+    "Icons/delivery-car-svgrepo-com.svg",
+    "Laravel/Command.md",
+    "Php/Array.md",
+    "Laravel/Model.md",
+    "Laravel/Bootstrap CSS.md",
+    "Laravel/Tailwind CSS.md",
+>>>>>>> e5873e1b0ec03765e2d319cb62f90515c6be4b2e
     "Laravel/Query Builder.md",
+    "Laravel/X-layout.md",
+    "git/Git.md",
     "MERN/Mongoose.md",
     "JavaScript/JavaScript.md",
-    "MERN/Package.md",
     "NEXT Js/Client side and server side rendering.md",
     "Tools/Google sheet to json.md",
     "Android Apps/Gradle.md",
