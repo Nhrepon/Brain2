@@ -54,10 +54,8 @@ let person = {
 - [x] Milk 
 - [?] Eggs 
 - [-] Eggs
-<<<<<<< HEAD
 - [ ] 
-=======
->>>>>>> 75e64a69fcd5d4819becac353eb1eb09c197b44a
+- [ ] 
 
 
 ```mermaid 
