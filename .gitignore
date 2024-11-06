@@ -1,7 +1,8 @@
 
 .obsidian
+.obsidian/
 .obsidian/*
-obsidian
+obsidian/
 
 # Logs
 logs
