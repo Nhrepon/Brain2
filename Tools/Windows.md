@@ -14,3 +14,18 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Profile
 
 
 ```
+
+## set custom DNS for Adguard
+```
+setting>network>adapter>propertise>tcp/ipv4>propertise>use dns server address
+
+**To Block Ads:**
+94.140.14.14
+94.140.15.15
+
+**To Block Adult Sites:**
+94.140.14.15
+94.140.15.16
+
+
+```
