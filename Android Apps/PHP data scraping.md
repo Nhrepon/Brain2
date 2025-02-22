@@ -15,6 +15,11 @@ foreach($values as $item){
 	echo '<br/>';
 }
 
+// $text = $item->textContent;
+// $cleanText = str_replace('\xc5\xa0', ' ', $text); // utf-8 non-breaking space
+// $cleanText = preg_replace('/\s+/u', ' ', $cleanText);
+// $cleanText = trim($cleanText);
+
 
 
 
