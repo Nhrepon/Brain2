@@ -11,7 +11,11 @@ to watch existing git:
 git config --global --list
 //git config --list
 
-
+// to show existing remote url
+git remote -v
+git remote show origin
+git config --get remote.origin.url
+git remote get-url origin
 
 
 
@@ -127,9 +131,9 @@ _A list of my commonly used Git commands_
 
 ### Inspection & Comparison
 
-| Command | Description |
-| ------- | ----------- |
-| `git log` | View changes |
-| `git log --summary` | View changes (detailed) |
-| `git log --oneline` | View changes (briefly) |
+| Command                                    | Description                    |
+| ------------------------------------------ | ------------------------------ |
+| `git log`                                  | View changes                   |
+| `git log --summary`                        | View changes (detailed)        |
+| `git log --oneline`                        | View changes (briefly)         |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
