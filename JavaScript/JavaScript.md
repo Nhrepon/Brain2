@@ -17,3 +17,16 @@ let person = {
 
 
 ---
+
+## Group By
+```js
+const user = [
+{name:"Repon", role:"admin"},
+{name:"Repon", role:"user"},
+{name:"Repon", role:"admin"},
+];
+const groupedUser = user.groupBy(user=>user.role);
+console.log(groupedUser);
+
+
+```
